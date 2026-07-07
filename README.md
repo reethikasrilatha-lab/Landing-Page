@@ -5,8 +5,8 @@ A modern and responsive Landing Page built using **HTML, CSS, and JavaScript**. 
 ---
 ## 🔗 Live Demo
 
-**View Live Demo:**  
-(Add your GitHub Pages link here)
+**View Live Demo:** 
+https://reethikasrilatha-lab.github.io/Landing-Page/
 
 ---
 ## 📌 Features
@@ -60,7 +60,7 @@ Landing-Page/
 
 **Muppu Reethika**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/reethikasrilatha-lab
 
 ---
 
