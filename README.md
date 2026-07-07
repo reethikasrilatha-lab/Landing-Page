@@ -6,7 +6,7 @@ A modern and responsive Landing Page built using **HTML, CSS, and JavaScript**. 
 ## 🔗 Live Demo
 
 **View Live Demo:** 
-https://reethikasrilatha-lab.github.io/Landing-page/
+https://reethikasrilatha-lab.github.io/Landing-Page/
 
 ---
 ## 📌 Features
